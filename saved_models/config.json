@@ -1,0 +1,5 @@
+{
+  "min_words": 30,
+  "human_confidence_threshold": 0.5,
+  "attrib_confidence_gap": 0.15
+}
